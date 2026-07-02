@@ -50,8 +50,8 @@ Trois fichiers de données sont mis à disposition :
 * Définition des règles de gestion applicables.
 
 <legend>Extrait du dictionnaire des données</legend> 
-
-<img src='/schema/P5_E1_Extrait_dic_donnees.png'>
+</br>
+<img src='/schema/P5_E1_Extrait_dic_donnees.png'  width = 70%>
 
 ### 2. Modélisation
 
@@ -62,7 +62,7 @@ Trois fichiers de données sont mis à disposition :
 
 <legend>Schéma relationnel</legend> 
 
-<img src='/schema/P5_E2_Schèma_complet_dark.jpg'>
+<img src='/schema/P5_E2_Schèma_complet_dark.jpg'  width = 70%>
 
 ### 3. Implémentation
 
@@ -74,7 +74,7 @@ Trois fichiers de données sont mis à disposition :
 
 <legend>Databricks Catalog Screenshot</legend>
 
-<img src='/schema/P5_E4_databricks_catalog_screenshot.png'>
+<img src='/schema/P5_E4_databricks_catalog_screenshot.png'  width = 40%>
 
 ### 4. Analyse SQL
 
@@ -93,7 +93,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * 31 380 appartements vendus au total
 
-<img src='/charts/1_Total appartements vendus au 1er semestre 2020_.png'>
+<img src='/charts/1_Total appartements vendus au 1er semestre 2020_.png'  width = 40%>
 
 <hr/>
 
@@ -101,7 +101,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * 14 000 seulement en Région Île-de-France  
 
-<img src='/charts/2_Ventes appartement par région pour le 1er semestre de 2020.png'>
+<img src='/charts/2_Ventes appartement par région pour le 1er semestre de 2020.png'  width = 70%>
 
 <hr/>
 
@@ -109,7 +109,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Préférence par les appartements de 2 et 3 pièces
 
-<img src='/charts/3_Proportion appartements vendus par nombre de pièces.png'>
+<img src='/charts/3_Proportion appartements vendus par nombre de pièces.png'  width = 40%>
 
 <hr/>
 
@@ -117,7 +117,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Paris a le prix au m² le plus élevé
 
-<img src='/charts/4_Top 10 Départements - Prix au m2.png'>
+<img src='/charts/4_Top 10 Départements - Prix au m2.png'  width = 60%>
 
 <hr/>
 
@@ -125,7 +125,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * 4000 € en moyenne le prix au m² d’une maison en Île-de-France
 
-<img src='/charts/5_Prix m2 moyen maison Ile de France.png'>
+<img src='/charts/5_Prix m2 moyen maison Ile de France.png'  width = 50%>
 
 <hr/>
 
@@ -135,7 +135,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 * Sans corrélation prix-surface évidente
 * Valeurs extrêmes suggérant des anomalies ou biens d'exception
 
-<img src='/charts/6_Top 10 des appartements les plus chers Prix vs Surface par région.png'>
+<img src='/charts/6_Top 10 des appartements les plus chers Prix vs Surface par région.png'  width = 50%>
 
 <hr/>
 
@@ -143,7 +143,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Hausse du nombre de ventes d'immeubles de 3,68% 
 
-<img src='/charts/7_Taux de croissance trimestriel des ventes en 2020.png'>
+<img src='/charts/7_Taux de croissance trimestriel des ventes en 2020.png'  width = 40%>
 
 <hr/>
 
@@ -151,7 +151,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Île-de-France en tête des prix au m² pour les T4+
 
-<img src='/charts/8_Prix au m2 par région appartements plus de 4 pièces.png'>
+<img src='/charts/8_Prix au m2 par région appartements plus de 4 pièces.png'  width = 60%>
 
 <hr/>
 
@@ -159,7 +159,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Paris domine parmi les 48 communes à plus de 50 ventes, avec les 17e, 15e et 18e arrondissement en tête 
 
-<img src='/charts/9_Top et bottom 5 communes - Ventes T1 2020.png'>
+<img src='/charts/9_Top et bottom 5 communes - Ventes T1 2020.png'  width = 60%>
 
 <hr/>
 
@@ -167,7 +167,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Le prix au m² du T3 est 12.4% inférieur à celui du T2
 
-<img src='/charts/10_Différence prix m2 moyen T2 et T3.png'>
+<img src='/charts/10_Différence prix m2 moyen T2 et T3.png'  width = 40%>
 
 <hr/>
 
@@ -175,7 +175,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Les Alpes-Maritimes affichent les plus fortes valeurs foncières moyennes, portées par leurs communes littorales d’exception
 
-<img src='/charts/11_Top 3 des communes forte valeur foncière moyenne.png'>
+<img src='/charts/11_Top 3 des communes forte valeur foncière moyenne.png'  width = 60%>
 
 <hr/>
 
@@ -183,7 +183,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 * Le 2e arrondissement de Paris enregistre le taux le plus élevé, avec 5.84 transactions pour 1000 habitants.
 
-<img src='/charts/12_transactions pour 1000 habitants - communes de plus de 10 000 habitants.png'>
+<img src='/charts/12_transactions pour 1000 habitants - communes de plus de 10 000 habitants.png'  width = 60%>
 
 <hr/>
 
