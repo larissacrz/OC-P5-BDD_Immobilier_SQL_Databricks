@@ -91,7 +91,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 ### 1. Nombre total d’appartements vendus au 1er semestre 2020
 
-* 31 380 appartements vendus au total
+* 31 380 appartements ont été vendus au total
 
 <img src='/charts/1_Total appartements vendus au 1er semestre 2020_.png'  width = 40%>
 
@@ -99,7 +99,7 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 
 ### 2. Le nombre de ventes d’appartement par région pour le 1er semestre 2020
 
-* 14 000 seulement en Région Île-de-France  
+* L'Île-de-France, à elle seule, totalise 14 000 ventes, soit environ 45 % des ventes d'appartements sur la période
 
 <img src='/charts/2_Ventes appartement par région pour le 1er semestre de 2020.png'  width = 70%>
 
@@ -184,6 +184,15 @@ Chaque requête a été exécutée dans l’environnement Databricks SQL (SQL Ed
 * Le 2e arrondissement de Paris enregistre le taux le plus élevé, avec 5.84 transactions pour 1000 habitants.
 
 <img src='/charts/12_transactions pour 1000 habitants - communes de plus de 10 000 habitants.png'  width = 60%>
+
+<hr/>
+
+## Conclusion
+* Le premier semestre 2020 confirme la domination de l'Île-de-France sur le marché immobilier français, à la fois très actif (fort volume de transactions) et à forte valeur (prix élevés).
+
+* La demande se porte principalement sur les appartements de 2 et 3 pièces, avec un prix au m² plus compétitif pour les T3.
+
+* Hors Île-de-France, les Alpes-Maritimes affichent les plus fortes valeurs foncières moyennes parmi les départements étudiés, portées notamment par leurs communes littorales d'exception.
 
 <hr/>
 
