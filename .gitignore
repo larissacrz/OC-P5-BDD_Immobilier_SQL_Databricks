@@ -1,4 +1,6 @@
+/.vscode
 /bdd
+/databricks
 /data/tables
 /documentation
 /mission
@@ -6,3 +8,4 @@
 /notebook/N2_bdd_cloud.ipynb
 /notebook/N2_bdd.ipynb
 /sql/integrity_check/verification_complete.sql
+
